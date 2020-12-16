@@ -5,6 +5,8 @@ This game exists in various formats:
 
 - Pdf/Powerpoint to print/modify for yourself
 - Mural and Miro templates for digital facilitation
+ - [Mural Template for Scrum Accountabilities Game](https://app.mural.co/template/a6204b0b-1f49-4634-bad0-126a1473eb82/e4098754-b9ca-42ef-be69-1f30586133cd)
+ - The [Miro template is a downloadable file](https://github.com/ScrumFacilitators/Scrum-Accountabilities/blob/main/MIRO%20-%20Scrum%20Accountabilities%20Template.rtb) in this repo
 - Printed in the webshop at http://scrum.facilitator.shop/
 
 
