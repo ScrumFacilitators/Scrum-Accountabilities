@@ -3,7 +3,7 @@ A game to discuss and learn about Scrum accountabilities.
 
 This game exists in various formats: 
 
-- [Mural Template for Scrum Accountabilities Game](https://app.mural.co/template/a6204b0b-1f49-4634-bad0-126a1473eb82/e4098754-b9ca-42ef-be69-1f30586133cd)(click this link to preview the template and import it into your own Mural workspace)
+- [Mural Template for Scrum Accountabilities Game v1.1](https://app.mural.co/template/0964b844-eac2-4807-9c32-ee4b0a17c364/e1063707-8b6d-4a93-9bca-ef6259243c75)(click this link to preview the template and import it into your own Mural workspace)
 - The [Miro template is a downloadable file](https://github.com/ScrumFacilitators/Scrum-Accountabilities/blob/main/MIRO%20-%20Scrum%20Accountabilities%20Template.rtb) (download this and import it in your Miro workspace)
 - Pdf/Powerpoint to print/modify for yourself (coming soon in this repository)
 - Printed in the webshop at http://scrum.facilitator.shop/ (coming soon)
