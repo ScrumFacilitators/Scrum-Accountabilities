@@ -8,6 +8,12 @@ This game exists in various formats:
 - Pdf/Powerpoint to print/modify for yourself (coming soon in this repository)
 - Printed in the webshop at http://scrum.facilitator.shop/ (coming soon)
 
+## Courses using this material
+
+- Professional Scrum Master (PSM)
+- Professional Scrum Master Advanced (PSM-A)
+- Professional Scrum Product Owner (PSPO)
+
 ## Feedback, requests and issues
 If you have any feedback, please let us know by [logging an issue here on github](https://github.com/ScrumFacilitators/Scrum-Accountabilities/issues) sending us a message through www.scrumfacilitators.nl or any other medium you can find us on. 
 
